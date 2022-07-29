@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/calculadora/static/js/main.bace390a.js",
+    "index.html": "/calculadora/index.html",
+    "main.bace390a.js.map": "/calculadora/static/js/main.bace390a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bace390a.js"
+  ]
+}
